@@ -14,7 +14,7 @@ img {
 /************* End CSS RESET **************/
 
 body {
-	background:url(images/paper.png);
+	background-color:cornsilk;
 	color:#424242;
 	font-family: 'Source Sans Pro', sans-serif;
 	padding:30px 0;
